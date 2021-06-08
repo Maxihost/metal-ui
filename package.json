@@ -30,7 +30,7 @@
     "@babel/cli": "^7.1.2",
     "@babel/core": "7.12.3",
     "@babel/plugin-transform-runtime": "^7.1.0",
-    "@babel/preset-env": "7.10.4",
+    "@babel/preset-env": "7.14.4",
     "@babel/preset-react": "7.12.1",
     "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
     "@emotion/babel-preset-css-prop": "^11.2.0",
